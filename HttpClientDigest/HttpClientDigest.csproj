@@ -8,6 +8,8 @@
     <Title>Http Digest Authorization Client</Title>
     <PackageId>HttpClientDigest</PackageId>
     <PackageVersion>0.0.1</PackageVersion>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <Description>This package provides a class for the convenient connection to a digest-authorised web service (something that is relatively complicated)</Description>
   </PropertyGroup>
 
   <ItemGroup>
